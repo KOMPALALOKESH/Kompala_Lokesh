@@ -215,12 +215,12 @@ article:hover {
 		display:flex;
 		flex-direction:column;
 		justify-content:center;
-		span {
+/* 		span {
 			@media (max-width:768px){
 				display:block;
 				content:'Data Engineering';
 			}
-		}
+		} */
 		.auto-type {
 			color: var(--yellow-800);
 		}
