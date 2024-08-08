@@ -217,7 +217,7 @@ article:hover {
 		justify-content:center;
 		span {
 			@media (max-width:768px){
-				display:none;
+				display:block;
 			}
 		}
 		.auto-type {
