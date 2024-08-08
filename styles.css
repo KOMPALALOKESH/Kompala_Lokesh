@@ -218,6 +218,7 @@ article:hover {
 		span {
 			@media (max-width:768px){
 				display:block;
+				content:'Data Engineering';
 			}
 		}
 		.auto-type {
