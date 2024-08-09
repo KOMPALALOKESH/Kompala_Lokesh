@@ -87,6 +87,8 @@ header {
 	nav {
 		display:flex;
 		align-items:center;
+		postition: sticky;
+		opacity: 0.5;
 		ul {
 			display:flex;
 			list-style-type: none;
