@@ -59,6 +59,8 @@ header {
 	max-width:1440px;
 	margin:auto;
 	border-bottom: 1px solid rgba(0,0,0,0.1);
+	postition: sticky;
+	opacity: 0.5;
 
 	.logo-holder {
 		display:flex;
@@ -87,8 +89,6 @@ header {
 	nav {
 		display:flex;
 		align-items:center;
-		postition: sticky;
-		opacity: 0.5;
 		ul {
 			display:flex;
 			list-style-type: none;
